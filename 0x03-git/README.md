@@ -1,1 +1,1 @@
-	sub directory 1
+	This is my main directory
